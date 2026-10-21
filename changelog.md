@@ -43,3 +43,5 @@ Implementação de testes automatizados de API utilizando **Playwright e TypeScr
 ## Resultado
 
 Implementação concluída e testes executados com sucesso, contribuindo para a qualidade, a confiabilidade e a manutenção da API por meio da automação de testes.
+
+---
