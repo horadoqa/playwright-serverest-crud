@@ -172,4 +172,3 @@ Eu implementaria nesta ordem:
 
 > [!CAUTION]
 > Um cuidado importante: use Faker para gerar dados únicos, mas mantenha os dados previsíveis nos testes de contrato quando isso ajudar na reprodução de falhas. E lembre-se de que `.env` deve ficar no `.gitignore`; publique somente o `.env.example`, sem credenciais reais.
-
