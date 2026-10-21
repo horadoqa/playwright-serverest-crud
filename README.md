@@ -14,33 +14,33 @@ Praticar automação de testes de API, validando as principais operações de ge
 ## Tecnologias utilizadas
 
 - [Playwright](<https://playwright.dev/>)
-- JavaScript
+- [JavaScript](https://www.w3schools.com/js/)
 - [ServeRest API](<https://serverest.dev/>)
-- Node.js
+- [Node.js](https://nodejs.org/pt-br)
 
 ## Instalação
 
 Clone o repositório:
 
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/horadoqa/playwright-serverest-crud.git
 ```
 
 Acesse a pasta do projeto:
 
-```
+```bash
 cd playwright-serverest-crud
 ```
 
 Instale as dependências:
 
-```
+```bash
 npm install
 ```
 
 ## ▶️ Execução dos testes
 
-```
+```bash
 npx playwright test
 ```
 
