@@ -22,7 +22,7 @@ Praticar automação de testes de API, validando as principais operações de ge
 
 Clone o repositório:
 
-```
+```bash
 git clone https://github.com/horadoqa/playwright-serverest-crud.git
 ```
 
@@ -38,7 +38,7 @@ Instale as dependências:
 npm install
 ```
 
-## ▶️ Execução dos testes
+## Execução dos testes
 
 ```bash
 npx playwright test
