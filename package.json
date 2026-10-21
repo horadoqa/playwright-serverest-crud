@@ -1,0 +1,23 @@
+{
+  "name": "playwright-serverest-crud",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes de API utilizando [Playwright](<https://playwright.dev/>) e a [API ServeRest](<https://serverest.dev/>), com foco nas operações CRUD de usuários.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horadoqa/playwright-serverest-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/horadoqa/playwright-serverest-crud/issues"
+  },
+  "homepage": "https://github.com/horadoqa/playwright-serverest-crud#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
